@@ -4,7 +4,7 @@ A lightweight Promise.all for Objects
 ## Installation
 
 ```sh
-    npm install rexolve --save
+npm install rexolve --save
 ```
 
 ## API
