@@ -1,0 +1,11 @@
+{
+  "name": "rexolve",
+  "version": "1.0.0",
+  "description": "A lightweight Promise.all for Objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
